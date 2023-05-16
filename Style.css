@@ -1,0 +1,68 @@
+.conteudo {
+    background: url('Fundo.png');
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(0, 0, 0);
+    width: 1000px; 
+    margin-left: auto;
+    margin-right: auto; 
+    
+    
+}
+
+.espaco {
+    background-color: #b6b69c;
+    width: 783px ;
+    text-align: center;
+    padding: 0px;
+    
+}
+
+.img {
+    border: 3px solid rgba(180, 192, 206, 0.082);
+}
+.center {
+    text-align: center;
+    padding: 2px;
+}
+
+
+.center1 {
+    text-align: center;
+    padding: 2px;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.text1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+
+.text2 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: center;
+    background-color: #b6b69c;
+    height: 25px;
+}
+
+.text3 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    text-align: center;
+}
+
+.corfundo{
+    background: #d2d2c1;
+}
+
+.direita{
+    float: left;
+    padding: 4px;
+}
+
+
+
